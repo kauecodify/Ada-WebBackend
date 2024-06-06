@@ -1,4 +1,4 @@
-![git](git.gif)
+
 
 **github**
 
@@ -39,3 +39,5 @@ jogar head no testing: git checkout testing
 ver todas as branch’s existentes: git branch
 
 2 branch e mesclar data: git merge testing
+
+![git](git.gif)
