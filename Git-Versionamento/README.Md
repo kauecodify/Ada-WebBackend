@@ -1,3 +1,5 @@
+![git](git.gif)
+
 **github**
 
 entrar na pasta com: cd “nome da pasta”
